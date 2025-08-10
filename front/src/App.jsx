@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <p className='text-amber-500 font-bold'>bonjour</p>
+    <p>Initialization</p>
     </>
   )
 }
