@@ -1,0 +1,16 @@
+{
+    "character":[
+        {
+            "id":1,
+            "name":"SpiderMan",
+            "gender":"Male",
+            "status":"Hero"
+        },
+        {
+            "id":2,
+            "name":"IronMan",
+            "gender":"Male",
+            "status":"Hero"
+        }
+    ]
+}
