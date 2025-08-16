@@ -1,19 +1,14 @@
 import { useState } from 'react'
 import './App.css'
 import './index.css'
-import Header from './components/header'
 import Container from './components/container'
-import Footer from './components/footer'
-
+import Header from './components/header'
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
+    <div className='bg-[#03172E] text-[#F0F0F0]'>
     <Header/>
     <Container/>
-    <Footer/>
-    </>
+    </div>
   )
 }
 

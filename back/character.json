@@ -1,16 +1,16 @@
 {
-    "character":[
-        {
-            "id":1,
-            "name":"SpiderMan",
-            "gender":"Male",
-            "status":"Hero"
-        },
-        {
-            "id":2,
-            "name":"IronMan",
-            "gender":"Male",
-            "status":"Hero"
-        }
-    ]
+  "character": [
+    {
+      "id": "1",
+      "name": "Capitain America",
+      "gender": "Male",
+      "description": "A good and gentle hero"
+    },
+    {
+      "id": "2",
+      "name": "IronMan",
+      "gender": "Male",
+      "description": "A hero in a robot costume"
+    }
+  ]
 }
